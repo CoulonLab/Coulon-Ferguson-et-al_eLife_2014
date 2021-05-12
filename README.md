@@ -15,3 +15,5 @@ File `fluctuationAnalysis_eLife2014.ipynb` is a Jupyter notebook to illstrate ho
 
 ## License
 This code is under GPLv3 license. See `LICENSE` file for details.
+
+If using this code and/or data, please cite [[Coulon, Ferguson et al. 2014 eLife DOI: 10.7554/eLife.03939](https://elifesciences.org/articles/03939)].
